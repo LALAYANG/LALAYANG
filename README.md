@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I am currently working in software engineering, specifically focusing on software testing.
+🔭 I am currently working on software engineering, specifically focusing on software testing.
 ![Metrics](/metrics-main.svg)
 
 
