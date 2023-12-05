@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on software testing and ML4Code
+- 🔭 I’m currently working on software engineering, specifically software testing
 
 
 
