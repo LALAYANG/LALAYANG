@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I'm currently working on software engineering, specifically focusing on software testing.
-
+<!--
 ![Metrics](/metrics-main.svg)
 
-
+-->
